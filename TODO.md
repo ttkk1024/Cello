@@ -5,7 +5,7 @@ Cello REPL
 ==========
 
 * REPL
-  - Python prototype
-  - Parse CPP and extract defines.
-  - Parse Syntax tree and extract type/variable declarations
-  - Record those in permanent storage which is added to every file
+  - Python 原型
+  - 解析CPP和抽取定义.
+  - 解析语法树和抽取类型/变量声明
+  - 记录添加到每个文件中的永久信息
