@@ -3,7 +3,7 @@ Cello
 
 __Cello__ is a _library_ that brings higher level programming to C.
 
-__Cello__是给C语言带来高级编程的库.
+__Cello__ 是给C语言带来高级编程的库.
 
 By acting as a _modern_, _powerful_ runtime system Cello makes many things easy 
 that were previously impractical or awkward in C such as:
